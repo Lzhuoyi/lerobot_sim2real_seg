@@ -1,0 +1,13 @@
+{
+  "base_camera_settings": {
+      "pos": [-0.0023, -0.1143,  0.4922],
+      "fov": 0.6063171344757083,
+      "target": [ 0.2766, -0.0308,  0.0255]
+  },
+  "greenscreen_overlay_path": null,
+  "spawn_box_pos": [0.275, -0.06],
+  "spawn_box_half_size": 0.08,
+  "domain_randomization_config": {
+    "robot_color": [0.1,0.1,0.1]
+  }
+}

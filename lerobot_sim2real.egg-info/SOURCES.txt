@@ -1,0 +1,7 @@
+README.md
+setup.py
+lerobot_sim2real.egg-info/PKG-INFO
+lerobot_sim2real.egg-info/SOURCES.txt
+lerobot_sim2real.egg-info/dependency_links.txt
+lerobot_sim2real.egg-info/requires.txt
+lerobot_sim2real.egg-info/top_level.txt
